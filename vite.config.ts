@@ -5,7 +5,7 @@ import path from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Starter-Vite-App/",
+  base: "/Carousel/",
   plugins: [react()],
   resolve: {
     alias: {
